@@ -1,4 +1,3 @@
-This was an assignment for one of my classes.
 The bin packing problem (fitting x items with given weights into y boxes) is NP-complete.
 The program is a greedy approximation algorithm, and illustrates how quicksorting first makes it more efficient.
 
